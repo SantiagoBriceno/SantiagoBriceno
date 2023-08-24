@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Briceño</h1>
 <h3 align="center">Passionate about technology, software engineering student and musician</h3>
 
-- 🔭 I’m currently working on [Information System from Baseball Academies](https://github.com/SSCPG/Front-End-Information-System-Baseball-Academy)
+- 🔭 I’m currently working on [Information System from Baseball Academies](https://github.com/SantiagoBriceno/-Components-tesis)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SantiagoBriceno?tab=repositories](https://github.com/SantiagoBriceno?tab=repositories)
 
